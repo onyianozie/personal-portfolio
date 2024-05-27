@@ -25,13 +25,13 @@ const ContactInfo = () => {
                 </div> */}
 
 
-                {/* <div className="single-contact wow fadeInUp" data-wow-delay=".6s">
+                <div className="single-contact wow fadeInUp" data-wow-delay=".6s">
                     <div className="contact-icon">
                         <i><RiMailLine size={20} /></i>
                     </div>
-                    <h2>Email us:</h2>
-                    <p>websitename@mail.com</p>
-                </div> */}
+                    <h2>Email me:</h2>
+                    <p>anozie.iko@mail.com</p>
+                </div>
 
             </div>
         </div>

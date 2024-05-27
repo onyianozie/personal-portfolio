@@ -18,7 +18,7 @@ const ContactForm = () => {
                         <div className="col-md-6">
                             <div className="form-group">
                                 <label htmlFor="email">Email Address</label>
-                                <input type="email" id="email" name="email" className="form-control" defaultValue="" placeholder="hello@websitename.com" required="" data-error="Please enter your Email" />
+                                <input type="email" id="email" name="email" className="form-control" defaultValue="" placeholder="hello@websitename.com" required="" data-error="anozie.iko@gmail.com" />
                                 <label htmlFor="email" className="for-icon"><i className="far fa-envelope"></i></label>
                                 <div className="help-block with-errors"></div>
                             </div>
@@ -26,7 +26,7 @@ const ContactForm = () => {
                         <div className="col-md-12">
                             <div className="form-group">
                                 <label htmlFor="message">Your Message</label>
-                                <textarea name="message" id="message" className="form-control" rows="4" placeholder="Write Your message" required="" data-error="Please Write your Message"></textarea>
+                                <textarea name="message" id="message" className="form-control" rows="4" placeholder="Write Your message" required="" data-error="Oops! Error, try again later"></textarea>
                                 <div className="help-block with-errors"></div>
                             </div>
                         </div>
