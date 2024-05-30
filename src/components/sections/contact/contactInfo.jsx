@@ -30,7 +30,8 @@ const ContactInfo = () => {
                         <i><RiMailLine size={20} /></i>
                     </div>
                     <h2>Email me:</h2>
-                    <p>anozie.iko@mail.com</p>
+                    <a href="mailto:anozie.iko@mail.com">anozie.iko@gmail.com</a>
+                    {/* <p>anozie.iko@gmail.com</p> */}
                 </div>
 
             </div>
