@@ -39,7 +39,7 @@ const About = () => {
                         <div className="about-content-part">
                             <SlideUp>
                                 <h2>
-                                    Hello, I’m Andre, <span>Frontend Web Developer</span> and UI Designer Specializing in Marketing Within Sustainable Energy, Consulting and Healthcare Technology.
+                                    Hello, I’m Andre, <span>Frontend Web Developer</span> and UI Designer Specializing in Marketing.
                                 </h2>
                                 <div className="hero-btns">
                                     <a href="https://drive.google.com/file/d/194fjY58pp-qmbC-3ApLyG3pr7Z5Sw-eb/view?usp=sharing" className="theme-btn">Download Resume <i><RiDownloadLine size={16} /></i></a>

@@ -48,7 +48,7 @@ export const projectsData = [
         src: work_6,
         category: "Web Design",
         title: "Ignite Lifts ( Shopify )",
-        url:"",
+        url:"https://ca.trustpilot.com/review/ignitelifts.com",
     },
 
 ]

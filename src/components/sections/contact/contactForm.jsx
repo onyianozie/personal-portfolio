@@ -1,7 +1,9 @@
 import React from 'react'
 import {RiMailLine } from '@remixicon/react'
 
-const ContactForm = () => {
+
+ 
+ const ContactForm = () => {
     return (
         <div className="col-lg-8">
             <div className="contact-form contact-form-area wow fadeInUp delay-0-4s">

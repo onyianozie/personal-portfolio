@@ -1,6 +1,7 @@
 import React from 'react'
 import ContactInfo from './contactInfo'
 import ContactForm from './contactForm'
+import TypeformEmbed from './typeForm'
 import SlideUp from '../../animations/slideUp'
 
 const Contact = () => {
@@ -18,7 +19,8 @@ const Contact = () => {
                 <SlideUp>
                     <div className="row">
                         <ContactInfo />
-                        <ContactForm />
+                        {/* <ContactForm /> */}
+                        <TypeformEmbed />
                     </div>
                 </SlideUp>
             </div>
